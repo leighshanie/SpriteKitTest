@@ -12,6 +12,7 @@
 ## Features
 
 ## Requirements
+- [x] iOS 14+
 
 ## Installation
 
